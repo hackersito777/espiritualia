@@ -3,10 +3,14 @@
 import React from 'react';
 import './Contacto.css';
 import { FaWhatsapp } from 'react-icons/fa';
+import Navbar from './NavBar';
 
 const Contacto = () => {
   return (
+
     <div className="contacto-container">
+        
+    <Navbar/>
       <h1>¡Hablemos!</h1>
       <p>
         ¿Listo para iniciar una conversación que te acerque a tus metas? Estoy aquí para ayudarte.

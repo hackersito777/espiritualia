@@ -1,5 +1,5 @@
 
-import LandingPage from './components/LandingPage'
+import Inicio from './components/Inicio';
 import './App.css'
 import Navbar from './components/NavBar'
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
@@ -14,7 +14,7 @@ function App() {
     
     <Navbar/>
     <Switch>
-    <Route path="/" exact component={LandingPage} />
+    <Route path="/inicio" exact component={Inicio} />
     <Route path="/acercade" exact component={AcercaDe} />
     <Route path="/contacto" exact component={Contacto} />
 
