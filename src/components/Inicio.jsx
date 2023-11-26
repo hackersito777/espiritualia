@@ -18,6 +18,7 @@ const Inicio = () => {
         <meta name="keywords" content="Espiritualidad, Cristianismo, Religion, Cultura, Fe, Amor, Esperanza" />
         <meta name="author" content="Tu Nombre" />
         <link rel="canonical" href="https://espiritualia.vercel.app/inicio" />
+        <meta name="google-site-verification" content="2wQWfSchpSKalRRU_JVRc2yRioXvfiULnjgj3PM5fRM" />
 
 
         
