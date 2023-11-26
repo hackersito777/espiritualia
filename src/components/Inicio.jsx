@@ -57,7 +57,7 @@ const Inicio = () => {
         </blockquote>
       </section>
       <footer>
-        <p>© 2023 Tu Empresa Futurista. Todos los derechos reservados.</p>
+      <p>© 2023 Espiritualia. Todos los derechos reservados.</p>
       </footer>
     </div>
   );
